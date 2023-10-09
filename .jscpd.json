@@ -1,0 +1,7 @@
+{
+  "threshold": 20,
+  "reporters": ["html", "console"],
+  "ignore": ["**/node_modules/**", "**/.idea/**"],
+  "absolute": true,
+  "min-lines": 2
+}

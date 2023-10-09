@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git pull superOrigin master &&
+npm run lintAutoFix
+
